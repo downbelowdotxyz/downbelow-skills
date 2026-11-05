@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Next"
+  short_description: "Build, test, and save the next game piece"
+  default_prompt: "Use $build-next to build the next item from my game brief and let me try it."

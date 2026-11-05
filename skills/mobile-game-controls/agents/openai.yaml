@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Game Controls"
+  short_description: "Orientation and analog touch controls by game genre"
+  default_prompt: "Use $mobile-game-controls to pick the right orientation and touch scheme for this game, mock it up, then build and verify it at phone sizes."

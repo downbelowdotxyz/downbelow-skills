@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Performance Engineering"
+  short_description: "Profile and optimize games across engines and platforms"
+  default_prompt: "Use $game-performance-engineering to measure this game, identify its bottleneck, and implement a verified improvement."

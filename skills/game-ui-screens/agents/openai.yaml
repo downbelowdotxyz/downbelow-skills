@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game UI Screens"
+  short_description: "Make menus, HUD, and loading screens feel in-game"
+  default_prompt: "Use $game-ui-screens to restyle these screens to match the game's main menu and check them at every target size."

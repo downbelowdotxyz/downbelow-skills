@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Asset Pipeline"
+  short_description: "Reproducible asset import from upstream to runtime"
+  default_prompt: "Use $game-asset-pipeline to import these assets with pinned sources, a manifest, credits, and tests."

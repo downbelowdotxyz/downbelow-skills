@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playtest"
+  short_description: "Play the running game to prove a change works"
+  default_prompt: "Use $playtest to play through the change in the running game and report what you saw."

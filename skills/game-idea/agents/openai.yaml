@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Idea"
+  short_description: "Turn an idea into a small one-page game brief"
+  default_prompt: "Use $game-idea to turn my idea into a small game I can finish."

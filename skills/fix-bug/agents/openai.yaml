@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Bug"
+  short_description: "Find and fix one problem without breaking more"
+  default_prompt: "Use $fix-bug to find out why this is broken and fix it."

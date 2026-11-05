@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Source Game Worlds"
+  short_description: "Find, verify, import, and compose reusable game worlds"
+  default_prompt: "Use $open-source-game-worlds to evaluate reusable world assets, verify their licenses, and integrate a representative scene."

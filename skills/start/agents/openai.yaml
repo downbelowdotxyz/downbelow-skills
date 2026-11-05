@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Here"
+  short_description: "Find where you are and the one next step"
+  default_prompt: "Use $start to help me begin making a game."

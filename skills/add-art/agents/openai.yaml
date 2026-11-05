@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Art"
+  short_description: "Get art and sound in, imported right and credited"
+  default_prompt: "Use $add-art to replace the placeholder shapes with free art that fits my game, and credit it."

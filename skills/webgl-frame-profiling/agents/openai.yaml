@@ -1,0 +1,4 @@
+interface:
+  display_name: "WebGL Frame Profiling"
+  short_description: "Measure GPU and frame cost in a live browser game"
+  default_prompt: "Use $webgl-frame-profiling to capture a baseline, find the most expensive part of the frame, and verify one improvement."

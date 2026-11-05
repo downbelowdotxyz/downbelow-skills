@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ship It"
+  short_description: "Put the game online for friends to play"
+  default_prompt: "Use $ship-it to get my game ready and walk me through putting it on itch.io."

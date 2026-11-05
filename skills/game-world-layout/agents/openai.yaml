@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game World Layout"
+  short_description: "Map and change worlds, zones, and spawn points"
+  default_prompt: "Use $game-world-layout to map how this game's world is structured and make this change everywhere it applies."

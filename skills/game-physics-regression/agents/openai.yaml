@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Physics Regression"
+  short_description: "Reproduce, fix, and test game physics bugs"
+  default_prompt: "Use $game-physics-regression to reproduce this movement bug headless, fix the cause, and add a regression test."

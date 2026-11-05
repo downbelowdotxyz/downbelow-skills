@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pick Engine"
+  short_description: "Choose tools, set up, get something moving"
+  default_prompt: "Use $pick-engine to choose tools for my game and get the player moving on screen."

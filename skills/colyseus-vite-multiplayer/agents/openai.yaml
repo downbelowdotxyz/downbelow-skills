@@ -1,0 +1,4 @@
+interface:
+  display_name: "Colyseus + Vite Multiplayer"
+  short_description: "Build, test, upgrade, and deploy Colyseus web games"
+  default_prompt: "Use $colyseus-vite-multiplayer to add private-room multiplayer to this Vite game with a Colyseus server, then prove it with the smoke test and two browser tabs."
